@@ -1,0 +1,104 @@
+{
+  "magic": [
+    {
+      "id": 11,
+      "name": "Aeromancy",
+      "image": "aeromancy",
+      "type": "pure",
+      "Source": "Air",
+      "description": "Aeromancy is the practice of divination or magic involving the element of air. It involves harnessing the power of wind currents, manipulating air molecules, and invoking the qualities associated with air such as freedom, agility, and mental clarity."
+    },
+    {
+      "id": 12,
+      "name": "Pyromancy",
+      "image": "pyromancy",
+      "type": "pure",
+      "Source": "Fire",
+      "description": "Pyromancy is the art of divination or magic involving the element of fire. It focuses on the control and manipulation of flames, generating heat and light, and embracing the passionate and transformative qualities associated with fire."
+    },
+    {
+      "id": 13,
+      "name": "Geomancy",
+      "image": "geomancy",
+      "type": "pure",
+      "description": "Geomancy is a form of divination or magic that works with the element of earth. It involves shaping and manipulating the earth, connecting with nature, and drawing upon the stability, grounding, and nurturing aspects associated with the earth element."
+    },
+    {
+      "id": 14,
+      "name": "Aquamancy",
+      "image": "aquamancy",
+      "type": "pure",
+      "description": "Aquamancy is the practice of divination or magic involving the element of water. It revolves around controlling bodies of water, healing and purifying, and tapping into emotions and intuition. Aquamancy is associated with adaptability, empathy, and understanding."
+    },
+    {
+      "id": 15,
+      "name": "Luxomancy",
+      "image": "luxomancy",
+      "type": "pure",
+      "description": "Luxomancy is a form of divination or magic focused on the element of light. It deals with radiant energy, illumination, and inspiring hope. Luxomancers possess a strong moral compass, purity, and the ability to bring light to darkness."
+    },
+    {
+      "id": 16,
+      "name": "Umbramancy",
+      "image": "umbramancy",
+      "type": "pure",
+      "description": "Umbramancy is the practice of divination or magic associated with the element of darkness or shadows. It involves manipulating shadows, concealing oneself, and delving into secrets and hidden knowledge. Umbramancers possess an understanding of their inner darkness and the ability to transcend fear."
+    },
+    {
+      "id": 17,
+      "name": "Voidomancy",
+      "image": "voidomancy",
+      "type": "pure",
+      "description": "Voidomancy is a form of divination or magic related to the concept of the void or nothingness. It involves controlling the realm of nether, manipulating negative energy, and having a deep understanding of the cycles of life and death."
+    },
+    {
+      "id": 18,
+      "name": "Astralmancy",
+      "image": "astralmancy",
+      "type": "pure",
+      "description": "Astralmancy is a form of divination or magic that deals with the astral plane and celestial energies. Practitioners of Astralmancy have the ability to navigate and explore the astral realm, communicate with celestial beings, and tap into the cosmic forces that govern the universe. Astralmancers possess a deep understanding of cosmic patterns, astral projection, and the interplay between the physical and spiritual dimensions."
+    },
+    {
+      "id": 19,
+      "name": "Teramancy",
+      "image": "teramancy",
+      "type": "mixed",
+      "description": "Teramancy is the practice of divination or magic associated with the merging of earth and fire elements. It encompasses the shaping and manipulation of the earth by the help of fire element, enhanced physical strength, and a strong connection to nature."
+    },
+    {
+      "id": 20,
+      "name": "Floramancy",
+      "image": "floramancy",
+      "type": "pure",
+      "description": "Floramancy is a form of divination or magic focused on plants and vegetation. It involves communicating with plants, harnessing their energy, and understanding their properties and healing abilities. Floramancers possess a deep connection to the natural world and the ability to promote growth and balance."
+    },
+    {
+      "id": 21,
+      "name": "Cryomancy",
+      "image": "cryomancy",
+      "type": "mixed",
+      "description": "Cryomancy is the art of divination or magic involving the element of ice or extreme cold. It includes the ability to generate and manipulate water and air elements in order to create freezing temperatures, and harness the stillness and clarity associated with ice."
+    },
+    {
+      "id": 22,
+      "name": "Electromancy",
+      "image": "electromancy",
+      "type": "mixed",
+      "description": "Electromancy is the practice of divination or magic centered around electricity and electromagnetism. It involves manipulating electrical air and fire elements, generating electrical currents, and harnessing the power and properties of electricity."
+    },
+    {
+      "id": 23,
+      "name": "Auramancy",
+      "image": "auramancy",
+      "type": "mixed",
+      "description": "Auramancy is a form of divination or magic that focuses on auras and energy fields. It involves sensing and interpreting the subtle energy vibrations emitted by living beings and objects. Auramancers possess heightened perception and the ability to read and manipulate energy by utilizing aether and light elements."
+    },
+    {
+      "id": 24,
+      "name": "Necromancy",
+      "image": "necromancy",
+      "type": "mixed",
+      "description": "Necromancy is the practice of magic involving communication with and manipulation of the dead or spirits. It often includes divination through spirit contact, summoning of spirits, and working with the energy and knowledge of the deceased. It combines darkness and nether elements to utilize powers from below."
+    }
+  ]
+}

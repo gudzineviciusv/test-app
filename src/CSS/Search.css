@@ -1,0 +1,33 @@
+
+.Search {
+    margin-bottom: 20px;
+  }
+  
+  .Search input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .Search button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .Search ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .Search li {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  

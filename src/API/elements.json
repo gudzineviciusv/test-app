@@ -1,0 +1,84 @@
+{
+  "elements": [
+    {
+      "id": 1,
+      "name": "Air",
+      "image": "air",
+      "type": "core",
+      "description": "The element of air represents freedom and movement. Being attuned to Air grants heightened agility and the ability to manipulate wind currents.One must possess a strong sense of adaptability and mental clarity to harness the power of Air.",
+      "strongAgainst": [3],
+      "weakAgainst": [4],
+      "canBoost": [2]
+    },
+    {
+      "id": 2,
+      "name": "Fire",
+      "image": "fire",
+      "type": "core",
+      "description": "The element of fire represents passion and energy.Those attuned to Fire possess intense passion, the power to control flames, and the ability to generate warmth and light.A fiery spirit, courage, and the ability to embrace change and transformation are crucial for harnessing the element of Fire.",
+      "strongAgainst": [4],
+      "weakAgainst": [3],
+      "canBoost": [1]
+    },
+    {
+      "id": 3,
+      "name": "Water",
+      "image": "water",
+      "type": "core",
+      "description": "The element of water represents emotions and intuition.Attunement to Water grants control over bodies of water, the ability to heal and purify, and a deep connection to emotions and intuition.Emotional intelligence, adaptability, and the capacity for empathy and understanding are necessary for conjuring the element of Water.",
+      "strongAgainst": [2],
+      "weakAgainst": [1],
+      "canBoost": [4]
+    },
+    {
+      "id": 4,
+      "name": "Earth",
+      "image": "earth",
+      "type": "core",
+      "description": "The element of earth represents stability and grounding.Attunement to Earth provides enhanced strength, the ability to shape and manipulate the earth, and a deep connection to nature.Patience, stability, and a strong grounding in one's beliefs and values are essential to conjuring the element of Earth.",
+      "strongAgainst": [1],
+      "weakAgainst": [2],
+      "canBoost": [3]
+    },
+    {
+      "id": 5,
+      "name": "Light",
+      "image": "light",
+      "type": "prime",
+      "description": "The element of light represents purity and enlightenment.Being attuned to Light brings forth radiant energy, the power to illuminate darkness, and the ability to inspire and bring hope. Inner purity, selflessness, and a strong moral compass are the qualities required to conjure and wield the element of Light.",
+      "strongAgainst": [6],
+      "weakAgainst": [6],
+      "canBoost": [8]
+    },
+    {
+      "id": 6,
+      "name": "Darkness",
+      "image": "darkness",
+      "type": "prime",
+      "description": "The element of darkness represents mystery and shadows.Attunement to Darkness bestows shadow manipulation, the ability to conceal oneself, and an affinity for secrets and hidden knowledge.Comfort with solitude, a deep understanding of one's inner darkness, and the capacity to embrace and transcend fear are essential for harnessing the element of Darkness.",
+      "strongAgainst": [5],
+      "weakAgainst": [5],
+      "canBoost": [7]
+    },
+    {
+      "id": 7,
+      "name": "Nether",
+      "image": "nether",
+      "type": "prime",
+      "description": "The element of nether represents chaos and destruction.Attunement to Nether grants control over the realm of shadows, the ability to manipulate negative energy, and a deep understanding of the afterlife.Fearlessness, resilience, and a profound acceptance of the cycles of life and death are crucial for conjuring the element of Nether.",
+      "strongAgainst": [7],
+      "weakAgainst": [7],
+      "canBoost": [6]
+    },
+    {
+      "id": 8,
+      "name": "Aether",
+      "image": "aether",
+      "type": "prime",
+      "description": "The element of aether represents transcendence and spirituality.Those attuned to Aether possess a connection to the ethereal realm, the ability to manipulate energy, and access to otherworldly dimensions. Open-mindedness, curiosity, and a strong spiritual connection are necessary to harness the elemental power of Aether.",
+      "strongAgainst": [7],
+      "weakAgainst": [7],
+      "canBoost": [5]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.hero {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .hero__left {
+    flex: 1;
+  }
+  
+  .hero__right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .hero__image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
+  @media (max-width: 768px) {
+    .hero {
+      flex-direction: column;
+    }
+  
+    .hero__left,
+    .hero__right {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .hero__right {
+      margin-top: 1rem;
+      justify-content: center;
+    }
+  }
+  
